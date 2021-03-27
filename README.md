@@ -1,3 +1,26 @@
+## grbl_msgs (rolling) - 0.0.2-2
+
+The packages in the `grbl_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling grbl_msgs` on `Sat, 27 Mar 2021 03:07:06 -0000`
+
+The `grbl_msgs` package was released.
+
+Version of package(s) in repository `grbl_msgs`:
+
+- upstream repository: https://github.com/flynneva/grbl_msgs.git
+- release repository: https://github.com/flynneva/grbl_msgs-release.git
+- rosdistro version: `0.0.2-1`
+- old version: `0.0.2-1`
+- new version: `0.0.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.3`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## grbl_msgs (dashing) - 0.0.2-1
 
 The packages in the `grbl_msgs` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --rosdistro dashing --track dashing grbl_msgs --edit` on `Wed, 14 Oct 2020 04:23:10 -0000`
