@@ -1,1 +1,1 @@
-{"base": "3d4a8de", "parent": "debian/rolling/grbl_msgs", "previous": "196e616", "trim": "", "trimbase": ""}
+{"base": "ad59a1a", "parent": "debian/humble/grbl_msgs", "previous": "0456128", "trim": "", "trimbase": ""}
