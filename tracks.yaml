@@ -175,7 +175,7 @@ tracks:
     last_version: 0.0.2
     name: upstream
     patches: null
-    release_inc: '7'
+    release_inc: '8'
     release_repo_url: git@github.com:flynneva/grbl_msgs-release.git
     release_tag: :{version}
     ros_distro: rolling
